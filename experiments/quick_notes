@@ -1,0 +1,22 @@
+On laptop with 4050 gpu:
+-ResNet-18:
+{'_far6.png': 'far', '_near3.png': 'near', '_far5.png': 'far', '_far2.png': 'far', '_far8.png': 'far', '_far3.png': 'far', '_near6.png': 'near', '_far9.png': 'far', '_near9.png': 'near', '_near7.png': 'near', '_far10.png': 'far', '_far7.png': 'far', '_near2.png': 'near', '_far4.png': 'far', '_near4.png': 'far', '_near5.png': 'near', '_near8.png': 'near', '_far1.png': 'far', '_near1.png': 'near', '_near10.png': 'near'}
+accuracy is:  0.95
+Correct count =  19
+Incorrect count =  1
+-AlexNet
+{'_far6.png': 'far', '_near3.png': 'near', '_far5.png': 'far', '_far2.png': 'far', '_far8.png': 'far', '_far3.png': 'far', '_near6.png': 'near', '_far9.png': 'far', '_near9.png': 'near', '_near7.png': 'near', '_far10.png': 'far', '_far7.png': 'far', '_near2.png': 'near', '_far4.png': 'far', '_near4.png': 'far', '_near5.png': 'near', '_near8.png': 'near', '_far1.png': 'far', '_near1.png': 'near', '_near10.png': 'far'}
+accuracy is:  0.9
+Correct count =  18
+Incorrect count =  2
+
+On jetson nano:
+-ResNet 18:
+{'_far7.png': 'far', '_near6.png': 'near', '_near3.png': 'far', '_far8.png': 'far', '_near8.png': 'near', '_near4.png': 'far', '_near7.png': 'near', '_near5.png': 'far', '_far3.png': 'far', '_near9.png': 'near', '_far2.png': 'far', '_far1.png': 'far', '_far5.png': 'far', '_far6.png': 'far', '_far10.png': 'far', '_near1.png': 'near', '_near10.png': 'far', '_far9.png': 'far', '_far4.png': 'far', '_near2.png': 'near'}
+accuracy is:  0.8
+Correct count =  16
+Incorrect count =  4
+{'_far7.png': 'far', '_near6.png': 'near', '_near3.png': 'near', '_far8.png': 'far', '_near8.png': 'near', '_near4.png': 'far', '_near7.png': 'near', '_near5.png': 'near', '_far3.png': 'far', '_near9.png': 'near', '_far2.png': 'far', '_far1.png': 'far', '_far5.png': 'far', '_far6.png': 'far', '_far10.png': 'far', '_near1.png': 'near', '_near10.png': 'far', '_far9.png': 'far', '_far4.png': 'far', '_near2.png': 'near'}
+accuracy is:  0.9
+Correct count =  18
+Incorrect count =  2
