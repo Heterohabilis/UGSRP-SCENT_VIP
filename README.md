@@ -18,5 +18,6 @@ This is the legacy repo of the UGSRP/VIP of Smart Chemical Emission Navigation T
 - The concentration-changing part can be considered as high-frequency components of the concentration signal.
 - In time domain, the larger distance -> fewer high-freq components; vice versa for little distance.
 - High-pass filter can be used to amplify the difference
-**TO DO (If continue with legacy settings)**: train model based on high-pass-filtered data and compare the accuracy.
+
+  **TO DO (If continue with legacy settings)**: train model based on high-pass-filtered data and compare the accuracy.
 ![image](https://github.com/user-attachments/assets/e453938d-69da-4630-a6ac-02ec928e02cc)
