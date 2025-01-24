@@ -2,10 +2,6 @@
 This is the legacy repo of the UGSRP/VIP of Smart Chemical Emission Navigation Tracker. To learn more, read the poster below :) 
 ![alt text](poster.png "The poster of the project with some introductions.")
 
---------------------------------------------------------------------------------------------------------------------------------------------
-
-[Slides]: https://docs.google.com/presentation/d/1nJ5NMHCmSZ70E_cCKt26Tx2ByKMZNVuDWHEpPymi9z0/edit?usp=sharing
-
 ## Current Experiment
 
 **Experiment 1: CNN**
