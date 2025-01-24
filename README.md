@@ -4,7 +4,10 @@ This is the legacy repo of the UGSRP/VIP of Smart Chemical Emission Navigation T
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+[Slides]: https://docs.google.com/presentation/d/1nJ5NMHCmSZ70E_cCKt26Tx2ByKMZNVuDWHEpPymi9z0/edit?usp=sharing
+
 ## Current Experiment
+
 **Experiment 1: CNN**
 - Problem: no matter on what distance, because of the turbulence, the plot of concentration changes a little.
 - Observations: When the distance is large (~300 cm for experiment purposes), there are rarely large changes in concentration.
