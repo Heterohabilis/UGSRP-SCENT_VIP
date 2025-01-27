@@ -1,5 +1,7 @@
 # UGSRP-SCENT_VIP
 This is the legacy repo of the UGSRP/VIP of Smart Chemical Emission Navigation Tracker. To learn more, read the poster below and the slide [here](https://docs.google.com/presentation/d/1nJ5NMHCmSZ70E_cCKt26Tx2ByKMZNVuDWHEpPymi9z0/edit?usp=sharing) :) 
+
+
 ![alt text](poster.png "The poster of the project with some introductions.")
 
 ## Current Experiment
